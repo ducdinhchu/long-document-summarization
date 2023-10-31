@@ -4,11 +4,7 @@ This document provides a comprehensive summary of several research papers relate
 
 **Models and Dataset**
 
-<style>
-table {
-    font-size: 80%;
-}
-</style>
+<font size="2">
 
 | Full name                                                                 | Paper                                              | Summary
 | ------------------------------------------------------------------------- |:--------------------------------------------------:|:-------------------------------------:|
