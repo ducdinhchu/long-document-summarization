@@ -4,6 +4,12 @@ This document provides a comprehensive summary of several research papers relate
 
 **Models and Dataset**
 
+<style>
+table {
+    font-size: 80%;
+}
+</style>
+
 | Full name                                                                 | Paper                                              | Summary
 | ------------------------------------------------------------------------- |:--------------------------------------------------:|:-------------------------------------:|
 | Longformer: The Long-Document Transformer                                 | https://arxiv.org/pdf/2004.05150.pdf               | [Longformer](https://github.com/ducdinhchu/long-document-summarization/blob/main/S_Longformer.pdf)
