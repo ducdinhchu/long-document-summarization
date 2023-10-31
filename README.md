@@ -14,4 +14,6 @@ This document provides a comprehensive summary of several research papers relate
 | BillSum: A Corpus for Automatic Summarization of US Legislation           | [Paper](https://arxiv.org/pdf/1910.00523.pdf)               | [BillSum](https://github.com/ducdinhchu/long-document-summarization/blob/main/S_BillSum.pdf)
 | A Discourse-Aware Attention Model for Abstractive Summarization of Long Documents | [Paper](https://arxiv.org/pdf/1804.05685.pdf)       | [arXiv, PubMed](https://github.com/ducdinhchu/long-document-summarization/blob/main/S_arXiv_PubMed.pdf)
 
+<small>
+
 **Results**
