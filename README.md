@@ -7,5 +7,7 @@ This document provides a comprehensive summary of several research papers relate
 | Full name                                                                 | Paper                                              | Summary
 | ------------------------------------------------------------------------- |:--------------------------------------------------:|:-------------------------------------:|
 | Longformer: The Long-Document Transformer                                 | https://arxiv.org/pdf/2004.05150.pdf               | [Longformer](https://github.com/ducdinhchu/long-document-summarization/blob/main/S_Longformer.pdf)
-| Fastformer: Additive Attention Can Be All You Need                        | [Fastformer](https://arxiv.org/pdf/2108.09084.pdf) | [Fastformer](https://github.com/ducdinhchu/MIND-news-recommendation/blob/master/S_Fastformer.pdf)
-| MIND: A Large-scale Dataset for News Recommendation                       | [MIND](https://aclanthology.org/2020.acl-main.331.pdf)     | [MIND](https://github.com/ducdinhchu/MIND-news-recommendation/blob/master/S_MIND.pdf)
+| LongT5: Efficient Text-To-Text Transformer for Long Sequences             | https://arxiv.org/pdf/2112.07916.pdf               | [LongT5](https://github.com/ducdinhchu/long-document-summarization/blob/main/S_LongT5.pdf)
+| TextRank: Bringing Order into Texts                                       | https://aclanthology.org/W04-3252.pdf              | [TextRank](https://github.com/ducdinhchu/long-document-summarization/blob/main/S_TextRank.pdf)
+| BillSum: A Corpus for Automatic Summarization of US Legislation           | https://arxiv.org/pdf/1910.00523.pdf               | [BillSum](https://github.com/ducdinhchu/long-document-summarization/blob/main/S_BillSum.pdf)
+| A Discourse-Aware Attention Model for Abstractive Summarization of Long Documents | https://arxiv.org/pdf/1804.05685.pdf       | [BillSum](https://github.com/ducdinhchu/long-document-summarization/blob/main/S_BillSum.pdf)
