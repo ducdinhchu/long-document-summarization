@@ -13,7 +13,7 @@ This document provides a comprehensive summary of several research papers relate
 | A Discourse-Aware Attention Model <br> for Abstractive Summarization of Long Documents | https://arxiv.org/pdf/1804.05685.pdf       | [arXiv, PubMed](https://github.com/ducdinhchu/long-document-summarization/blob/main/S_arXiv_PubMed.pdf)
 
 
-**Results**
+# Results
 
 <img src="https://github.com/ducdinhchu/long-document-summarization/blob/main/results.jpg?raw=true" alt="Kết quả thử nghiệm" width="65%">
 
