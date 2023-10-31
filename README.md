@@ -15,4 +15,6 @@ This document provides a comprehensive summary of several research papers relate
 
 **Results**
 
-![Kết quả thử nghiệm](https://github.com/ducdinhchu/long-document-summarization/blob/main/results.jpg?raw=true)
+<img src="https://github.com/ducdinhchu/long-document-summarization/blob/main/results.jpg?raw=true" alt="Kết quả thử nghiệm" width="65%">
+
+A summary of results for long document summarization using the BillSum dataset is presented. DOC, SUM, and DOC + SUM are from the original BillSum paper. As of July 2023, the LED large model leads the pack. The last three are my implementations, with LEDopt standing out as the top performer.
