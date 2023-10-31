@@ -14,3 +14,5 @@ This document provides a comprehensive summary of several research papers relate
 
 
 **Results**
+
+![Kết quả thử nghiệm](https://github.com/ducdinhchu/long-document-summarization/blob/main/results.jpg?raw=true)
