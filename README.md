@@ -7,9 +7,10 @@ This document provides a comprehensive summary of several research papers relate
 | Full name                                                                 | Paper                                              | Summary
 | ------------------------------------------------------------------------- |:--------------------------------------------------:|:-------------------------------------:|
 | Longformer: The Long-Document Transformer                                 | https://arxiv.org/pdf/2004.05150.pdf              | [Longformer](https://github.com/ducdinhchu/long-document-summarization/blob/main/S_Longformer.pdf)
-| LongT5: Efficient Text-To-Text Transformer <br> for Long Sequences             | https://arxiv.org/pdf/2112.07916.pdf               | [LongT5](https://github.com/ducdinhchu/long-document-summarization/blob/main/S_LongT5.pdf)
+| LongT5: Efficient Text-To-Text Transformer <br> for Long Sequences        | https://arxiv.org/pdf/2112.07916.pdf               | [LongT5](https://github.com/ducdinhchu/long-document-summarization/blob/main/S_LongT5.pdf)
 | TextRank: Bringing Order into Texts                                       | https://aclanthology.org/W04-3252.pdf             | [TextRank](https://github.com/ducdinhchu/long-document-summarization/blob/main/S_TextRank.pdf)
-| BillSum: A Corpus <br> for Automatic Summarization of US Legislation           | https://arxiv.org/pdf/1910.00523.pdf               | [BillSum](https://github.com/ducdinhchu/long-document-summarization/blob/main/S_BillSum.pdf)
+| LexRank: Graph-based Lexical Centrality as Salience in Text Summarization | https://arxiv.org/abs/1109.2128                   | [TextRank](https://github.com/ducdinhchu/long-document-summarization/blob/main/S_LexRank.pdf)
+| BillSum: A Corpus <br> for Automatic Summarization of US Legislation      | https://arxiv.org/pdf/1910.00523.pdf               | [BillSum](https://github.com/ducdinhchu/long-document-summarization/blob/main/S_BillSum.pdf)
 | A Discourse-Aware Attention Model <br> for Abstractive Summarization of Long Documents | https://arxiv.org/pdf/1804.05685.pdf       | [arXiv, PubMed](https://github.com/ducdinhchu/long-document-summarization/blob/main/S_arXiv_PubMed.pdf)
 
 
